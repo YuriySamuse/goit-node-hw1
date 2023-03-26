@@ -20,7 +20,7 @@
 node index --action list
 ```
 
-![List of contacts](https://monosnap.com/file/OWbbDexAdqLFi9UKg8Omv7AQVth00G)
+![List of contacts](https://ibb.co/crBWwwv)
 
 -   Get contact by id
 
@@ -45,4 +45,3 @@ node index --action remove --id 3
 ```
 
 ![Remove contact](https://monosnap.com/file/jV2xxCApW48lnqV0pCcfw1pm5fa8pI)
-g
