@@ -45,11 +45,3 @@ node index --action remove --id 3
 ```
 
 ![Remove contact](https://monosnap.com/file/AXXQVLdMRob8CdxZo8ALS29rmROxa0)
-
--   Update contact
-
-```cli
-node index --action update --id 3
-```
-
-![Remove contact](https://monosnap.com/file/AXXQVLdMRob8CdxZo8ALS29rmROxa0)
