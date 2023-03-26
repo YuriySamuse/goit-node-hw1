@@ -20,7 +20,7 @@
 node index --action list
 ```
 
-![List of contacts](https://monosnap.com/file/aG03lk7MqeMevsMnikf1ja9H20YKFe)
+![List of contacts](https://monosnap.com/file/OWbbDexAdqLFi9UKg8Omv7AQVth00G)
 
 -   Get contact by id
 
@@ -28,7 +28,7 @@ node index --action list
 node index --action get --id 5
 ```
 
-![Get contact](https://monosnap.com/file/oEuxj4JcIJsdzeN0Nh55NK07VlCgoh)
+![Get contact](https://monosnap.com/file/tHf6HXZVgFVQfXlsAOyj9eMQbDPjIt)
 
 -   Add contact
 
@@ -36,7 +36,7 @@ node index --action get --id 5
 node index --action add --name Mango --email mango@gmail.com --phone 322-22-22
 ```
 
-![Add contact](https://monosnap.com/file/rFouXk2BRNfKaRwEHCxEz1eKKWqfMY)
+![Add contact](https://monosnap.com/file/0xRVrFxwecDJb1fejuIwOXGdRu3z6I)
 
 -   Remove contact
 
@@ -44,4 +44,5 @@ node index --action add --name Mango --email mango@gmail.com --phone 322-22-22
 node index --action remove --id 3
 ```
 
-![Remove contact](https://monosnap.com/file/AXXQVLdMRob8CdxZo8ALS29rmROxa0)
+![Remove contact](https://monosnap.com/file/jV2xxCApW48lnqV0pCcfw1pm5fa8pI)
+g
